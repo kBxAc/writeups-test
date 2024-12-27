@@ -9,6 +9,7 @@
         "test-challenge" : {
           "name": "Test Challenge",
           "weight": 0,
+          "uploadTime": 1735304013,
         }
       ],
     },
