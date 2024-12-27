@@ -9,6 +9,7 @@
         "test-challenge" : {
           "name": "Test Challenge",
           "weight": 0,
+          "uploadTime": 1735303482,
         }
       ],
     },
@@ -18,6 +19,7 @@
         "test-challenge" : {
           "name": "Test Challenge",
           "weight": 0,
+          "uploadTime": 1735303482,
         },
       ],
     }
