@@ -1,1 +1,16 @@
-
+{
+  name: "Test CTF 2",
+  year: "2024",
+  uploadTime: 1735304013,
+  categories: [
+    "test-category" : {
+      name: "Test Category",
+      challenges : [
+        "test-challenge" : {
+          name: "Test Challenge",
+          weight: 0,
+        }
+      ],
+    },
+  ],
+}
