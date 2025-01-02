@@ -3,15 +3,17 @@
   "year": "2024",
   "uploadTime": 1735304013,
   "categories": [
-    "test-category" : {
+    {
+      "id": "test-category",
       "name": "Test Category",
-      "challenges" : [
-        "test-challenge" : {
+      "challenges": [
+        {
+          "id": "test-challenge",
           "name": "Test Challenge",
           "weight": 0,
-          "uploadTime": 1735304013,
+          "uploadTime": 1735304013
         }
-      ],
-    },
-  ],
+      ]
+    }
+  ]
 }
