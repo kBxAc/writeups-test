@@ -22,6 +22,27 @@
           ]
         }
       ]
+    },
+    "Test Category 2": {
+      "folderName": "test-category2",
+      "challenges": [
+        {
+          "id": "testchall",
+          "name": "Test Challenge",
+          "author": "ayushch",
+          "time_uploaded": 1735814699,
+          "tags": ["test-tag", "test-tag-3"],
+          "description": "This is a test description ...",
+          "hints": ["Test Hint 3", "Test Hint 2"],
+          "flag_format": "flag{...}",
+          "attachments": [
+            {
+              "name": "test.zip",
+              "path": "/attachments/test.zip"
+            }
+          ]
+        }
+      ]
     }
   }
 }
