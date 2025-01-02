@@ -1,27 +1,27 @@
 {
   "name": "Test CTF",
   "year": "2024",
-  "uploadTime": 1735303482,
-  "categories": [
-    "test-category" : {
-      "name": "Test Category",
-      "challenges" : [
-        "test-challenge" : {
-          "name": "Test Challenge",
-          "weight": 0,
-          "uploadTime": 1735303482,
-        }
-      ],
-    },
-    "test-category2" : {
-      "name": "Test Category 2",
+  "categories": {
+    "Test Category": {
+      "folderName": "test-category",
       "challenges": [
-        "test-challenge" : {
+        {
+          "id": "testchall",
           "name": "Test Challenge",
-          "weight": 0,
-          "uploadTime": 1735303482,
-        },
-      ],
+          "author": "ayushch",
+          "time_uploaded": 1735814647,
+          "tags": ["test-tag", "test-tag-2"],
+          "description": "This is a test description ...",
+          "hints": ["Test Hint 1", "Test Hint 2"],
+          "flag_format": "flag{...}",
+          "attachments": [
+            {
+              "name": "test.zip",
+              "path": "/attachments/test.zip"
+            }
+          ]
+        }
+      ]
     }
-  ],
+  }
 }
